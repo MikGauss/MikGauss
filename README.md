@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MikGauss
+- 👋 Hi, I’m @MikeP
 - 👀 I’m interested in guitar rig related gadgets
 - 🌱 I’m currently learning C, 
 - 💞️ I’m busy building in the lab
